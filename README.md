@@ -30,19 +30,31 @@ It monitors gym members’ activities, identifies the type of exercise, measures
 ### 🗄️ Database / Backend
 ![Firebase](https://img.shields.io/badge/Database-Firebase-FFCA28?logo=firebase&logoColor=black)
 ![Flask](https://img.shields.io/badge/Back)
+
+## ⚙️ Installation & Setup
+
+### Prerequisites
+- [ ] Python 3.10+
+- [ ] Git
+- [ ] VS Code
+- [ ] YOLOv8 installed (`pip install ultralytics`)
+
+### Setup Steps
+```bash
 # Clone the repository
-git clone https://github.com/Kafoor-A/Trainalyze.git
+git clone https://github.com/your-username/Trainalyze.git
 cd Trainalyze
 
 # Create virtual environment
 python -m venv venv
-source venv/bin/activate   # for macOS/Linux
-venv\Scripts\activate      # for Windows
+source venv/bin/activate   # macOS/Linux
+venv\Scripts\activate      # Windows
 
 # Install dependencies
 pip install -r requirements.txt
 
 # Run the main script
 python main.py
+
 
 
