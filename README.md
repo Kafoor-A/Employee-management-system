@@ -31,7 +31,7 @@ It monitors gym members’ activities, identifies the type of exercise, measures
 ![Firebase](https://img.shields.io/badge/Database-Firebase-FFCA28?logo=firebase&logoColor=black)
 ![Flask](https://img.shields.io/badge/Back)
 # Clone the repository
-git clone https://github.com/your-username/Trainalyze.git
+git clone https://github.com/Kafoor-A/Trainalyze.git
 cd Trainalyze
 
 # Create virtual environment
