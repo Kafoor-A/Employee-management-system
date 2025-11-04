@@ -29,31 +29,5 @@ It monitors gym members’ activities, identifies the type of exercise, measures
 
 ### 🗄️ Database / Backend
 ![Firebase](https://img.shields.io/badge/Database-Firebase-FFCA28?logo=firebase&logoColor=black)
-![Flask](https://img.shields.io/badge/Backend-Flask-000000?logo=flask&logoColor=white)
+![Flask](https://img.shields.io/badge/Back)
 
----
-
-## 🧩 System Architecture
-> _Real-time video feed is processed to detect and classify workouts, with performance data stored in the cloud._
-
-```mermaid
-graph TD
-  Camera -->|Video Stream| YOLO_Model
-  YOLO_Model -->|Detection Data| Python_Server
-  Python_Server -->|Processed Data| Database
-  Database -->|Workout Analytics| Trainer_Dashboard
-  Trainer_Dashboard -->|Insights| User
-# Clone the repository
-git clone https://github.com/your-username/Trainalyze.git
-cd Trainalyze
-
-# Create virtual environment
-python -m venv venv
-source venv/bin/activate   # for macOS/Linux
-venv\Scripts\activate      # for Windows
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the main script
-python main.py
