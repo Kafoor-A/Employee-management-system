@@ -1,4 +1,4 @@
-# 🚀 Project Title: Employment Management System – Smart Employee Tracker
+# 🚀 Project Title: Employment Management System
 
 ![Project Banner](https://github.com/Kafoor-A/Employee-management-system/blob/main/1762279074641.jpg)
 
