@@ -1,6 +1,6 @@
 # 🚀 Project Title: Trainalyze – Smart Gym Activity Tracker
 
-![Project Banner](https://github.com/user-attachments/assets/your-image-id)
+![Project Banner](https://github.com/Kafoor-A/Trainalyze/blob/main/1762258325980.jpg)
 
 ---
 
