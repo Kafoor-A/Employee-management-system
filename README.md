@@ -30,4 +30,19 @@ It monitors gym members’ activities, identifies the type of exercise, measures
 ### 🗄️ Database / Backend
 ![Firebase](https://img.shields.io/badge/Database-Firebase-FFCA28?logo=firebase&logoColor=black)
 ![Flask](https://img.shields.io/badge/Back)
+# Clone the repository
+git clone https://github.com/your-username/Trainalyze.git
+cd Trainalyze
+
+# Create virtual environment
+python -m venv venv
+source venv/bin/activate   # for macOS/Linux
+venv\Scripts\activate      # for Windows
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run the main script
+python main.py
+
 
