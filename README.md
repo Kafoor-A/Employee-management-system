@@ -150,17 +150,18 @@ Attedance
 
 Open http://localhost:5000 in your browser
 
+---
 📜 License
 
 This project is open-source under the MIT License.
 
 See the [LICENSE](./LICENSE) file for more details.
 
-
+---
 ##⭐ Show your support
 
 If you like this project, don’t forget to star 🌟 the repository!
-
+---
 **Author:** Abdul Kafoor  
 **Department of Electronics and Communication Engineering**  
 **Rajalakshmi Engineering College**
