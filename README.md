@@ -128,20 +128,20 @@ Attedance
 }
 ```
 ---
-📊 Future Enhancements
+##📊 Future Enhancements
  -🔐 Two-Factor Authentication (2FA) for secure logins
  -🧾 Payroll PDF generation
  -☁️ Cloud deployment (Render / Railway / AWS)
  -📈 Analytics dashboard with charts and trends
  -📧 Automated email reports
 
-🧑‍💻 Developed With
+##🧑‍💻 Developed With
  -Python Flask for backend
  -HTML, CSS, JS for frontend
  -MySQL for database
  -VS Code for development
 
-🏁 Quick Start
+##🏁 Quick Start
  -Clone the repo
  -Set up the virtual environment
  -Install dependencies
