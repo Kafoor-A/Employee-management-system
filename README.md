@@ -8,14 +8,13 @@ It enables administrators and HR teams to efficiently manage employee records, t
 ---
 
 ## 🚀 Features
-
-✅ Employee registration and profile management  
-✅ Attendance and leave tracking system  
-✅ Role-based login for Admin, HR, and Employee  
-✅ Automated payroll and salary report generation  
-✅ Real-time performance analytics dashboard  
-✅ Export employee data in CSV or Excel format  
-✅ Email notification integration (optional)  
+- ✅ Employee registration and profile management  
+- ✅ Attendance and leave tracking system  
+- ✅ Role-based login for Admin, HR, and Employee  
+- ✅ Automated payroll and salary report generation  
+- ✅ Real-time performance analytics dashboard  
+- ✅ Export employee data in CSV or Excel format  
+- ✅ Email notification integration (optional)  
 
 ---
 
@@ -128,25 +127,26 @@ Attedance
 }
 ```
 ---
+
 ##📊 Future Enhancements
- -🔐 Two-Factor Authentication (2FA) for secure logins
- -🧾 Payroll PDF generation
- -☁️ Cloud deployment (Render / Railway / AWS)
- -📈 Analytics dashboard with charts and trends
- -📧 Automated email reports
+ - 🔐 Two-Factor Authentication (2FA) for secure logins
+ - 🧾 Payroll PDF generation
+ - ☁️ Cloud deployment (Render / Railway / AWS)
+ - 📈 Analytics dashboard with charts and trends
+ - 📧 Automated email reports
 
 ##🧑‍💻 Developed With
- -Python Flask for backend
- -HTML, CSS, JS for frontend
- -MySQL for database
- -VS Code for development
+ - Python Flask for backend
+ - HTML, CSS, JS for frontend
+ - MySQL for database
+ - VS Code for development
 
 ##🏁 Quick Start
- -Clone the repo
- -Set up the virtual environment
- -Install dependencies
- -Update database credentials
- -Run python app.py
+ - Clone the repo
+ - Set up the virtual environment
+ - Install dependencies
+ - Update database credentials
+ - Run python app.py
 
 Open http://localhost:5000 in your browser
 
