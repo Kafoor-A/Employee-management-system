@@ -128,7 +128,7 @@ Attedance
 ```
 ---
 
-##📊 Future Enhancements
+###📊 Future Enhancements
  - 🔐 Two-Factor Authentication (2FA) for secure logins
  - 🧾 Payroll PDF generation
  - ☁️ Cloud deployment (Render / Railway / AWS)
