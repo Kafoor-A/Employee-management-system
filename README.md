@@ -88,6 +88,7 @@ python models.py
 
 # Run the Flask app
 python app.py
+```
 
 Your app will be live at 👉http://localhost:5000
 
@@ -166,7 +167,8 @@ Open http://localhost:5000 in your browser
 
 This project is open-source under the MIT License.
 
-See the LICENSE file for more details.
+See the [LICENSE](./LICENSE) file for more details.
+
 
 ⭐ Show your support
 
