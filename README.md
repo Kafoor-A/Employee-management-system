@@ -127,20 +127,19 @@ Attedance
 }
 ```
 ---
-
 📊 Future Enhancements
  - 🔐 Two-Factor Authentication (2FA) for secure logins
  - 🧾 Payroll PDF generation
  - ☁️ Cloud deployment (Render / Railway / AWS)
  - 📈 Analytics dashboard with charts and trends
  - 📧 Automated email reports
-
+---
 🧑‍💻 Developed With
  - Python Flask for backend
  - HTML, CSS, JS for frontend
  - MySQL for database
  - VS Code for development
-
+---
 🏁 Quick Start
  - Clone the repo
  - Set up the virtual environment
@@ -150,8 +149,9 @@ Attedance
 
 Open http://localhost:5000 in your browser
 
----
+
 📜 License
+---
 
 This project is open-source under the MIT License.
 
@@ -161,6 +161,7 @@ See the [LICENSE](./LICENSE) file for more details.
 ##⭐ Show your support
 
 If you like this project, don’t forget to star 🌟 the repository!
+
 ---
 **Author:** Abdul Kafoor  
 **Department of Electronics and Communication Engineering**  
