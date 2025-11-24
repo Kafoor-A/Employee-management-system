@@ -13,7 +13,7 @@ It enables administrators and HR teams to efficiently manage employee records, t
 - ✅ Role-based login for Admin, HR, and Employee  
 - ✅ Automated payroll and salary report generation  
 - ✅ Real-time performance analytics dashboard  
-- ✅ Export employee data in CSV or Excel format  
+- ✅ Export employee data in CSV or Excel format 
 - ✅ Email notification integration (optional)  
 
 ---
